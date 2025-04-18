@@ -1,0 +1,4 @@
+MIDI_NOTE_MIN = 0
+MIDI_NOTE_MAX = 127
+MIDDLE_C = 60  # MIDI standard for middle C
+DEFAULT_OCTAVE = 4
