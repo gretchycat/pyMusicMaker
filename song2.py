@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import rtmidi as rtmidi
 import mido as mido
 import musicMaker as mm
 import noteData
